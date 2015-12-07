@@ -71,7 +71,7 @@ Elixir projects are usually organized into three directories:
 
 * ebin - コンパイルされたバイトコードが入っています
 * lib - Elixirのコードが入っています(たいてい`.ex`というファイルです)
-* test - テストが入っています(たいて`.exs`というファイルです)
+* test - テストが入っています(たいてい`.exs`というファイルです)
 
 * ebin - contains the compiled bytecode
 * lib - contains elixir code (usually `.ex` files)
